@@ -261,14 +261,14 @@
         }
     #leo{
         height: 500px;
-        background-color: aliceblue;
+    
     }
     #leo #right{
         width: 40%;
         float: right;
         height: 500px;
         margin: auto;
-        font-size: 50px;
+        font-size: 20px;
     }
     #leo #left{
         width: 60%;
@@ -276,8 +276,120 @@
         height: 500px;
         margin: auto;
     }
+    #hotel{
+        height:500px;
+        
+    }
+    #hotel #right{
+        width: 50%;
+        float:right;
+        height:500px;
+        margin:auto;
+    }
+    #hotel #left{
+        font-size:20px;
+        
+    }
+    #rhino{
+        height:500px;
+    
+    }
+    #rhino #left{
+        width: 50%;
+        float:left;
+        height: 500px;
+        margin:top;
+        padding:-100px;
+    }
+    #rhino #right{
+        font-size:20px;
+    }
+    #bed{
+        height:500px;
+    }
+    #bed #right{
+        width: 50%;
+        float:right;
+        height:500px;
+        margin:auto;
+    } 
+    #bed #left{
+        font-size: 20px;
+    }
+    #camp{
+        height:500px;
+    }
+    #camp #left{
+        width: 50%;
+        float:left;
+        height:500px;
+        margin:auto;
+    }
+    #camp #right{
+        font-size:20px;
+    }
+    .h1right{
+        color: crimson;
+    }
+    .h2right{
+        color:darkkhaki;
+    }
+    .h2left{
+        color:darkkhaki;
+    }        
+     .h1rh{
+         color:darkseagreen;
+     }   
+    .h2rh{
+        color:darkkhaki;
+    }
+    .h1bed{
+        color:greenyellow;
+    }
+    .h2bed{
+        color:darkkhaki;
+    }
+    .h1camp{
+        color:lightgreen;
+    }
+    .h2pam{
+        color:darkkhaki;
+    }
+    .h1ar{
+        color:darksalmon;
+    }
+    .h2ges{
+        color:lightgoldenrodyellow;
+    }
+    .h2mb{
+        color:peru;
+    }
+    .h1yt{
+        color:mediumturquoise;
+    }
+    .txt{
+        color:plum;
+        font-size: 20px;
+        height: 500px;
+        
+        }
+    .sa{
+        color:forestgreen;
+        font-size: 20px;
+        margin-left: 10px;
+        background-color: black;
+    }
+    .sa .right{
+        float: right;
+        width: 40%;
+        /* background-color: bisque; */
+        padding-bottom: 350px;
+        
 
+    }
+    .sa .left{
+        float: left;
+        width: 60%;
         
         
-        
-        
+    }
