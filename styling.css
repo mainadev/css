@@ -1,0 +1,24 @@
+#topbar{
+    height: 90px;
+    width:100%;
+}
+#topbar #left{
+    float:left;
+    float:30px;
+    font-size: 25px;
+    padding:7px;
+}
+#topbar b{
+color:brown;
+}
+#topbar #right{
+    float: right;
+    font-size:20px;
+    padding:7px;
+
+}
+#doby{
+    font-size: 15px;
+    background-color: bisque;
+    background-repeat: no-repeat;
+}

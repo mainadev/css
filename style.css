@@ -75,19 +75,19 @@
             padding: 20px;
         }
         .active {
-            background-color: red;
+            background-color:green;
         }
         .passive{
-            background-color:yellow;
+            background-color:green;
         }
         .create{
             background-color: green;
         }
         .live{
-            background-color:red;
+            background-color:green;
         }
         .vola{
-            background-color:yellow;
+            background-color:green;
         }
         .max{
             background-color: green;
